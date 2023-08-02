@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Manegene 👋
+# 💬 Like exploring new technologies
+# 😄 breathe life to software systems
+# ❤️ if you like what I do, [become a sponsor and fund me](https://github.com/sponsors/manegene)
+
+
+
 
 <!--
 **manegene/manegene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
