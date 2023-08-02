@@ -2,7 +2,8 @@
 ### 💬 Like exploring new technologies
 ### 😄 breathe life to software systems
 ### ❤️ if you like what I do, [become a sponsor and fund me](https://github.com/sponsors/manegene)
-[![LinkedIn-Blue](https://github.com/manegene/manegene/assets/13959629/17e292db-e2a3-4772-8f0b-1e70f545a8be)](https://www.linkedin.com/in/robertmanegene)
+<a href="https://www.linkedin.com/in/robertmanegene"><img src="https://github.com/manegene/manegene/assets/13959629/17e292db-e2a3-4772-8f0b-1e70f545a8be.png"/></a>
+
 
 
 
