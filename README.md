@@ -1,4 +1,4 @@
-## Hi, this's Robert Manegene 👋
+## Hi, my name is Robert Manegene 👋
 ### 💬 Am a .NET and Kotlin developer
 ### 😀 Take pride in solving business challenges with a keen focus in FINTECH
 ### ❤️ If you like what I do:
