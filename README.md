@@ -1,7 +1,7 @@
 ## Hi, my name is Robert Manegene 👋
-### 💬 Am a .NET and Kotlin developer
-### 😀 Take pride in solving business challenges with a keen focus in FINTECH
-### ❤️ If you like what I do:
+### 💬 Am a web and mobile applications developer
+### I take pride in adding value to the open-source ecosystem
+### ❤️ If you would like to support what I do:
 ### [Be my GitHub sponsor](https://github.com/sponsors/manegene) 
 
 <p align = "left" >OR </p>  
