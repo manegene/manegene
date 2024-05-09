@@ -1,6 +1,6 @@
 ## Hi, my name is Robert Manegene 👋
-### 💬 Am a web and mobile applications developer
-### I take pride in adding value to the open-source ecosystem
+### Web and mobile applications developer
+### Proud in open-source contibutions
 ### ❤️ If you would like to support what I do:
 ### [Be my GitHub sponsor](https://github.com/sponsors/manegene) 
 
