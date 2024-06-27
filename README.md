@@ -1,11 +1,11 @@
 ## Hi, I am Robert Manegene 👋
 ### Web and mobile applications developer
-### Proud in open-source contibutions
-### ❤️ If you would like to support what I do:
-### [Be my GitHub sponsor](https://github.com/sponsors/manegene) 
-<p align = "left" >OR </p>
+I'm passionate about crafting web and mobile applications and take pride in my contributions to the open-source community.
 
-### On Paypal [![fund me](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=XMQSX7J83V5AN)
+❤️ If you’d like to support my work, consider buying me a cup of coffee:
+- <a href="https://github.com/sponsors/manegene"> <img src ="https://github.com/manegene/manegene/assets/13959629/c6ae6d64-c574-4b0b-9b72-a233da5bb0ca" alt="sponsor" width =50 ></a>
+
+- [![fund me](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=XMQSX7J83V5AN)
 *** 
 #### Let's connect:
 
